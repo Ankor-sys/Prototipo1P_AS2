@@ -1,0 +1,11 @@
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe.config
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.pdb
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csprojAssemblyReference.cache
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Form1.resources
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.frmVentas.resources
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Properties.Resources.resources
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.GenerateResource.cache
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CoreCompileInputs.cache
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.exe
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.pdb
