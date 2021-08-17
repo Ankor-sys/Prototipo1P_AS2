@@ -172,7 +172,8 @@
             // 
             // txtPrecio
             // 
-            this.txtPrecio.Location = new System.Drawing.Point(120, 334);
+            this.txtPrecio.Enabled = false;
+            this.txtPrecio.Location = new System.Drawing.Point(120, 360);
             this.txtPrecio.Name = "txtPrecio";
             this.txtPrecio.Size = new System.Drawing.Size(100, 20);
             this.txtPrecio.TabIndex = 15;
@@ -180,7 +181,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(9, 334);
+            this.label8.Location = new System.Drawing.Point(9, 360);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(40, 13);
             this.label8.TabIndex = 14;
@@ -188,7 +189,7 @@
             // 
             // txtCodigoBodega
             // 
-            this.txtCodigoBodega.Location = new System.Drawing.Point(120, 360);
+            this.txtCodigoBodega.Location = new System.Drawing.Point(120, 334);
             this.txtCodigoBodega.Name = "txtCodigoBodega";
             this.txtCodigoBodega.Size = new System.Drawing.Size(100, 20);
             this.txtCodigoBodega.TabIndex = 17;
@@ -196,7 +197,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(9, 360);
+            this.label9.Location = new System.Drawing.Point(9, 334);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(80, 13);
             this.label9.TabIndex = 16;
